@@ -1,5 +1,5 @@
 
-**`Hint: The scripts are not fully documented with comments. If you wish to use these scripts, feel free to contact the author for assistance in organizing them according to your needs.`**
+**`HINT: The scripts are not fully documented with comments. If you wish to use these scripts, feel free to contact the author for assistance in organizing them according to your needs (myang@tongji.edu.cn).`**
 
 ## **Project Description**
 
