@@ -228,33 +228,4 @@ def plt_global_convexinv_parallel():
     ax[1].set_xlabel('beta')
     ax[1].set_ylabel('Count')
     ax[1].set_title(f'Mean: {third_col_clip_mean:.2f}')
-    plt.show()    
-#    pdb.set_trace()
-        
-
-#os.chdir('/Users/superman/Documents/资料/新分类/太阳系小天体/DamitTest/')
-#global_convexinv_parallel()
-#sys.exit(0)
-
-# os.chdir('/Users/superman/Documents/资料/新分类/太阳系小天体/cspice_wk/20469219_hj/')
-# results = global_convexinv_parallel(
-#             lam_step = 1,
-#             beta_step = 1,
-#             n_per = 1,
-#             per_std = 1e-4,
-#             input_convexinv_dir='input_convexinv_new', # genarated input_convexinv files
-#             out_par_dir='out_par_new',
-#             out_lcs_dir='out_lcs_new', 
-#             in_lcs_file = 'B.txt',
-#             input_convexinv_file = 'input_convexinv',
-#             out_par_sortfile = 'out_par_allsort.txt')
-# with open('out_par_allsort_A.txt', 'r') as f:
-#     lines = f.readlines()[:10000]
-# col1 = [float(row.split()[1]) for row in lines]
-# col2 = [float(row.split()[2]) for row in lines]
-# plt.hist(col1, bins=50)
-# plt.xlim(30,80)
-# plt.show()
-# plt.hist(col2, bins=50)
-# plt.xlim(30,80)
-# plt.show()
+    plt.show()          
