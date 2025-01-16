@@ -1,8 +1,11 @@
+
+**`Hint: The scripts are not fully documented with comments. If you wish to use these scripts, feel free to contact the author for assistance in organizing them according to your needs.`**
+
 ## **Project Description**
 
 This project includes scripts and functions for paper "Observational Strategies for Spin Inversion of Near-Earth Asteroids". The details of each file are as follows:
 
-### ** Folder1: paperCodeV1 **
+### Folder1: paperCodeV1
 1. **`pltNeoParDis.py`**  
    Generate asteroid parameter statistics figures using downloaded data.
 
@@ -24,6 +27,6 @@ This project includes scripts and functions for paper "Observational Strategies 
 7. **`period_scan_parallel.py`**  
    Parallelized scanning of asteroid rotational periods.
 
-### ** Folder2: simulateData.zip **
+### Folder2: simulateData.zip 
 
 Some of the simulated data generated and used in this paper.
